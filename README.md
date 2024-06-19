@@ -8,7 +8,7 @@ The dataset used for this analysis is `spotify_data.csv`, which includes informa
 
 ## Tasks
 
-### 1. Simple Linear Regression (L12 - 2 points)
+### 1. Simple Linear Regression
 - **Objective:** Use a simple linear regression model to predict Spotify streams based on track score.
 - **Steps:**
   1. Preprocess the data to select relevant columns and handle missing values.
@@ -17,7 +17,7 @@ The dataset used for this analysis is `spotify_data.csv`, which includes informa
   4. Evaluate the model using Mean Squared Error (MSE) and R^2 score.
   5. Make predictions on new data.
   
-### 2. Multiple Linear Regression (L12 - 2 points)
+### 2. Multiple Linear Regression
 - **Objective:** Use a multiple linear regression model to predict Spotify streams based on multiple features.
 - **Steps:**
   1. Preprocess the data to select relevant columns and handle missing values.
@@ -26,7 +26,7 @@ The dataset used for this analysis is `spotify_data.csv`, which includes informa
   4. Evaluate the model using Mean Squared Error (MSE) and R^2 score.
   5. Make predictions on new data.
   
-### 3. Decision Tree Regression (L13 - 3 points)
+### 3. Decision Tree Regression
 - **Objective:** Use a decision tree regression model to predict Spotify streams based on track score.
 - **Steps:**
   1. Preprocess the data to select relevant columns and handle missing values.
@@ -35,7 +35,7 @@ The dataset used for this analysis is `spotify_data.csv`, which includes informa
   4. Evaluate the model using Mean Squared Error (MSE) and R^2 score.
   5. Make predictions on new data.
   
-### 4. Logistic Regression (L14 - 3 points)
+### 4. Logistic Regression
 - **Objective:** Use a logistic regression model to classify whether a track is explicit based on track score and Spotify streams.
 - **Steps:**
   1. Preprocess the data to select relevant columns and handle missing values.
@@ -44,7 +44,7 @@ The dataset used for this analysis is `spotify_data.csv`, which includes informa
   4. Evaluate the model using accuracy score.
   5. Make predictions on new data.
   
-### 5. Decision Tree Classification (L13 - 4 points)
+### 5. Decision Tree Classification
 - **Objective:** Use a decision tree classification model to classify whether a track is explicit based on track score and Spotify streams.
 - **Steps:**
   1. Preprocess the data to select relevant columns and handle missing values.
